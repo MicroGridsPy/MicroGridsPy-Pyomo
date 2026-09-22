@@ -1,3 +1,31 @@
+> ## ⚠️ Archived — Pyomo implementation (MicroGridsPy ≤ 2.1)
+>
+> This repository preserves the **Pyomo-based implementation** of MicroGridsPy, the version
+> underlying the publications listed in [`pubs_list.md`](pubs_list.md) up to and including
+> the 2023 release line. It is **archived and read-only**: no further development,
+> bug fixes or support.
+>
+> **Active development has moved to → [MicroGridsPy/MicroGridsPy](https://github.com/MicroGridsPy/MicroGridsPy)**,
+> a ground-up redevelopment built on [Linopy](https://linopy.readthedocs.io/), distributed as
+> an installable Python package with a command-line interface, a stable Python API and a
+> Streamlit graphical interface.
+>
+> **Which one should I use?**
+>
+> - **Reproducing a published result** from one of the papers above → use this repository,
+>   and cite the archived release DOI below.
+> - **Any new work** → use the current version. This one will not be updated.
+>
+> **How to cite this archived version:**
+>
+> ```
+> [Zenodo DOI — inserted after the first archived release]
+> ```
+>
+> See [`CITATION.cff`](CITATION.cff) for machine-readable citation metadata.
+
+---
+
 
 MicroGridsPy 2.1
 ======================== 
@@ -112,5 +140,5 @@ These steps will guide you through a successful installation of MicroGridsPy.
 - Sylvain Quoilin, Université de Liège <squoilin@uliege.be>
 
 ### License
-This is a free software licensed under the “European Union Public Licence" EUPL v1.1. It 
+This is a free software licensed under the “European Union Public Licence" EUPL v1.2. It 
 can be redistributed and/or modified under the terms of this license.

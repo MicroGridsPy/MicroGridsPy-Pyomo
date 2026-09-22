@@ -1,0 +1,104 @@
+cff-version: 1.2.0
+message: "If you use this archived Pyomo version of MicroGridsPy, please cite it as below."
+title: "MicroGridsPy-Pyomo: archived Pyomo implementation of the MicroGridsPy mini-grid planning model"
+abstract: >-
+  Archived Pyomo-based implementation of MicroGridsPy, an open-source model for the
+  optimal sizing and dispatch of hybrid mini-grids in remote and underserved areas.
+  This repository preserves the codebase underlying the MicroGridsPy publications up to
+  and including the 2023 release line. Development has continued in a ground-up
+  Linopy-based redevelopment at https://github.com/MicroGridsPy/MicroGridsPy.
+type: software
+version: "2.1"
+date-released: "2026-09-22"
+license: EUPL-1.2
+repository-code: "https://github.com/MicroGridsPy/MicroGridsPy-Pyomo"
+url: "https://microgridspy-docs.readthedocs.io/en/latest/"
+keywords:
+  - energy
+  - mini-grid
+  - rural electrification
+  - optimization
+  - pyomo
+  - energy access
+authors:
+  # The MicroGridsPy framework and its first open-source release (2019) were developed
+  # at the Universite de Liege. This archive preserves that lineage, so its originators
+  # are listed first.
+  - family-names: Balderrama
+    given-names: Sergio
+    affiliation: "Universidad Mayor de San Simon / Universite de Liege"
+    email: slbalderrama@doct.ulg.ac.be
+    # orcid: ORCID-NEEDED
+  - family-names: Quoilin
+    given-names: Sylvain
+    affiliation: "Universite de Liege"
+    email: squoilin@uliege.be
+    # orcid: ORCID-NEEDED
+  # Subsequent development at the SESAM group, Politecnico di Milano.
+  - family-names: Stevanato
+    given-names: "Nicolo"
+    affiliation: "Politecnico di Milano"
+    email: nicolo.stevanato@polimi.it
+    orcid: "https://orcid.org/0000-0002-3419-0389"
+  - family-names: Onori
+    given-names: Alessandro
+    affiliation: "Politecnico di Milano"
+    email: alessandro.onori@polimi.it
+    orcid: "https://orcid.org/0009-0009-1195-2078"
+  - family-names: Mereu
+    given-names: Riccardo
+    affiliation: "Politecnico di Milano"
+    email: riccardo.mereu@polimi.it
+    orcid: "https://orcid.org/0000-0003-0544-595X"
+  - family-names: Colombo
+    given-names: Emanuela
+    affiliation: "Politecnico di Milano"
+    email: emanuela.colombo@polimi.it
+    orcid: "https://orcid.org/0000-0002-9747-5699"
+  - family-names: Pellecchia
+    given-names: Gianluca
+    affiliation: "Politecnico di Milano"
+    email: gianluca.pellecchia@polimi.it
+    # orcid: ORCID-NEEDED
+  - family-names: Sangiorgio
+    given-names: Ivan
+    affiliation: "Politecnico di Milano"
+    email: ivan.sangiorgio@polimi.it
+    # orcid: ORCID-NEEDED
+  - family-names: Lombardi
+    given-names: Francesco
+    affiliation: "Delft University of Technology"
+    email: f.lombardi@tudelft.nl
+    # orcid: ORCID-NEEDED
+  - family-names: Guidicini
+    given-names: Giulia
+    affiliation: "Politecnico di Milano"
+    email: giulia.guidicini@polimi.it
+    # orcid: ORCID-NEEDED
+  - family-names: Rinaldi
+    given-names: Lorenzo
+    affiliation: "Politecnico di Milano"
+    email: lorenzo.rinaldi@polimi.it
+    # orcid: ORCID-NEEDED
+references:
+  - type: article
+    title: >-
+      A two-stage linear programming optimization framework for isolated hybrid
+      microgrids in a rural context: the case study of the El Espino community
+    doi: 10.1016/j.energy.2019.116073
+    journal: Energy
+    volume: 188
+    year: 2019
+    authors:
+      - family-names: Balderrama
+        given-names: Sergio
+      - family-names: Lombardi
+        given-names: Francesco
+      - family-names: Riva
+        given-names: Fabio
+      - family-names: Canedo
+        given-names: Walter
+      - family-names: Colombo
+        given-names: Emanuela
+      - family-names: Quoilin
+        given-names: Sylvain
