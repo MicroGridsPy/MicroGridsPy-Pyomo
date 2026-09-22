@@ -18,9 +18,16 @@
 >
 > **How to cite this archived version:**
 >
-> ```
-> [Zenodo DOI — inserted after the first archived release]
-> ```
+> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22900498.svg)](https://doi.org/10.5281/zenodo.22900498)
+>
+> > Balderrama, S., Quoilin, S., Stevanato, N., Onori, A., Mereu, R., Colombo, E.,
+> > Pellecchia, G., Sangiorgio, I., Lombardi, F., Guidicini, G., & Rinaldi, L. (2026).
+> > *MicroGridsPy-Pyomo: archived Pyomo implementation of the MicroGridsPy mini-grid
+> > planning model* (v2.1). Zenodo. https://doi.org/10.5281/zenodo.22900498
+>
+> The DOI above resolves to this exact v2.1 snapshot. The concept DOI
+> [10.5281/zenodo.22900497](https://doi.org/10.5281/zenodo.22900497) always resolves to the
+> most recent version of this archive; since the archive is frozen, the two are equivalent.
 >
 > See [`CITATION.cff`](CITATION.cff) for machine-readable citation metadata.
 

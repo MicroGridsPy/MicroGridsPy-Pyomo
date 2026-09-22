@@ -10,6 +10,7 @@ abstract: >-
 type: software
 version: "2.1"
 date-released: "2026-09-22"
+doi: "10.5281/zenodo.22900498"
 license: EUPL-1.2
 repository-code: "https://github.com/MicroGridsPy/MicroGridsPy-Pyomo"
 url: "https://microgridspy-docs.readthedocs.io/en/latest/"
