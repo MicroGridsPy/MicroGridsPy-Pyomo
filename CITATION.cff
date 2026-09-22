@@ -28,12 +28,12 @@ authors:
     given-names: Sergio
     affiliation: "Universidad Mayor de San Simon / Universite de Liege"
     email: slbalderrama@doct.ulg.ac.be
-    # orcid: ORCID-NEEDED
+    orcid: "https://orcid.org/0000-0003-0656-3544"
   - family-names: Quoilin
     given-names: Sylvain
     affiliation: "Universite de Liege"
     email: squoilin@uliege.be
-    # orcid: ORCID-NEEDED
+    orcid: "https://orcid.org/0000-0002-2064-209X"
   # Subsequent development at the SESAM group, Politecnico di Milano.
   - family-names: Stevanato
     given-names: "Nicolo"
